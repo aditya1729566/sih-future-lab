@@ -22,7 +22,8 @@ const mono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://sih-future-lab.vercel.app"),
+  metadataBase: new URL("https://rea-eight-silk.vercel.app"),
+  alternates: { canonical: "/" },
   title: "Smart India Hackathon — Future Lab",
   description:
     "An independent cinematic reimagining of Smart India Hackathon: where student ingenuity meets the problems India needs solved.",

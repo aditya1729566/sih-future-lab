@@ -58,8 +58,8 @@ npm run build
 
 ## Links
 
-- Live URL: add after Vercel deployment
-- Public repository: add after publication
+- Live URL: https://rea-eight-silk.vercel.app
+- Private repository: https://github.com/aditya1729566/sih-future-lab
 
 ## Disclaimer
 
